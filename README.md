@@ -1,9 +1,6 @@
 # MySql_PostgreSQL
 
-Se usaron sentencias create table y alter table para crear un pequeño esquema donde se muestra el funcionamiento de
-algunas restricciones de forma declarativa (restricciones de integridad, restricciones de integridad referencial y
-reglas de negocio). Algunas reglas de negocio se hicieron de forma procedural (funciones y trigger). También se usan
-vistas, algunas actualizables y otras no.
+Se muestran ejemplos de los usos de algunas sentencias en MySql usando como DBMS PostgreSQL.
 
 --Creacion de tabla:
 
